@@ -1,0 +1,1536 @@
+[
+  {
+    "id": 49,
+    "slug": "beef-stout-stew",
+    "title": "Beef & Stout Stew",
+    "cuisine": "Irish",
+    "tags": [
+      "beef",
+      "stew",
+      "one pot",
+      "braise",
+      "dinner"
+    ],
+    "prepTime": "45 min",
+    "cookTime": "2 hr 45 min",
+    "servings": 6,
+    "photo": "photos/beef-stout-stew.webp",
+    "ingredients": [
+      "3 lb beef chuck, cut into 2-inch chunks",
+      "2 tsp kosher salt, plus more to taste",
+      "1 tsp black pepper",
+      "3 tbsp all-purpose flour",
+      "3 tbsp olive oil",
+      "4 slices thick-cut bacon, chopped",
+      "2 yellow onions, chopped",
+      "5 garlic cloves, minced",
+      "2 tbsp tomato paste",
+      "12 fl oz stout (like Guinness)",
+      "3 cups beef stock",
+      "1 tbsp Worcestershire sauce",
+      "4 fresh thyme sprigs",
+      "2 bay leaves",
+      "4 carrots, cut into 1-inch pieces",
+      "1.5 lb Yukon Gold potatoes, cut into chunks",
+      "1 cup frozen peas",
+      "2 tbsp chopped parsley"
+    ],
+    "steps": [
+      "Heat oven to 325°F. Pat the beef dry, then toss with the salt, pepper, and flour.",
+      "In a Dutch oven over medium heat, cook the bacon until crisp, about 7 minutes. Scoop it out, leaving the fat in the pot.",
+      "Add the olive oil and turn heat to medium-high. Brown the beef in 2–3 batches without crowding, getting a deep crust on each side, about 15 minutes total. Set aside.",
+      "Lower heat to medium. Cook the onions until soft, about 6 minutes. Add the garlic and tomato paste and stir 1 minute until the paste darkens.",
+      "Pour in the stout and scrape up all the brown bits. Simmer 3 minutes. Add the stock, Worcestershire, thyme, bay leaves, beef, and bacon.",
+      "Bring to a simmer, cover, and braise in the oven for 1½ hours.",
+      "Stir in the carrots and potatoes. Cover and return to the oven for about 1 hour, until the beef falls apart and the potatoes are tender.",
+      "Remove the thyme stems and bay leaves. Stir in the peas and let sit 5 minutes. Season with salt and top with parsley."
+    ],
+    "notes": "Dry the beef well — wet meat steams instead of searing. The brown bits scraped up with the stout carry most of the flavor. For thicker gravy, mash a few potato chunks into the liquid. Even better the next day. Serve with crusty bread."
+  },
+  {
+    "id": 48,
+    "slug": "maple-mustard-pork-tenderloin-with-roasted-brussels-sprouts",
+    "title": "Maple-Mustard Pork Tenderloin with Roasted Brussels Sprouts",
+    "cuisine": "American",
+    "tags": [
+      "pork",
+      "brussels sprouts",
+      "lactose-free",
+      "oven",
+      "dinner"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "30 min",
+    "servings": 4,
+    "photo": "photos/maple-mustard-pork-tenderloin.webp",
+    "ingredients": [
+      "Pork & glaze: 2 pork tenderloins (about 1 lb each)",
+      "Pork & glaze: 2 tbsp Dijon mustard",
+      "Pork & glaze: 1 tbsp whole-grain mustard",
+      "Pork & glaze: 3 tbsp maple syrup",
+      "Pork & glaze: 2 garlic cloves, minced",
+      "Pork & glaze: 1 tbsp fresh thyme or rosemary, chopped",
+      "Pork & glaze: 1 tsp kosher salt",
+      "Pork & glaze: ½ tsp black pepper",
+      "Pork & glaze: 1 tbsp olive oil (for searing)",
+      "Brussels sprouts: 1½ lb Brussels sprouts, trimmed and halved",
+      "Brussels sprouts: 2 tbsp olive oil",
+      "Brussels sprouts: 1 tsp kosher salt",
+      "Brussels sprouts: ½ tsp black pepper",
+      "Brussels sprouts: 1 tbsp apple cider vinegar"
+    ],
+    "steps": [
+      "Preheat the oven to 425°F (220°C).",
+      "Whisk both mustards, maple syrup, garlic, and herbs. Set aside about a third for serving.",
+      "Pat the tenderloins dry, trim off the silver skin, and season all over with 1 tsp salt and ½ tsp pepper.",
+      "Heat 1 tbsp olive oil in an oven-safe skillet over medium-high heat. Brown the pork on all sides, about 6 minutes.",
+      "Toss the sprouts with 2 tbsp olive oil, 1 tsp salt, and ½ tsp pepper. Spread cut-side down on a sheet pan.",
+      "Brush the pork with glaze and move the skillet to the oven, with the sprouts on another rack. Roast about 20 minutes, until the pork hits 145°F inside and the sprouts are crispy. Brush on more glaze halfway through.",
+      "Rest the pork 5 minutes on a cutting board. Toss the sprouts with the vinegar.",
+      "Slice into thick medallions, drizzle with the reserved glaze, and serve with the sprouts."
+    ],
+    "notes": "Lactose-free as written. A little pink at 145°F is safe and keeps it juicy — use a meat thermometer. Swap in chicken thighs (cook to 165°F) or salmon (about 12 min) with the same glaze. Pairs with the Butternut Squash & Apple Soup: start the squash first, then add the pork and sprouts when it has about 20 minutes left, and finish the soup while the pork rests."
+  },
+  {
+    "id": 47,
+    "slug": "roasted-butternut-squash-apple-soup-with-sage",
+    "title": "Roasted Butternut Squash & Apple Soup with Sage",
+    "cuisine": "American",
+    "tags": [
+      "soup",
+      "butternut squash",
+      "fall",
+      "lactose-free",
+      "vegetarian option"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "45 min",
+    "servings": 4,
+    "photo": "photos/butternut-squash-apple-soup.webp",
+    "ingredients": [
+      "3 lb butternut squash, peeled, seeded and cubed",
+      "1 tart apple (Honeycrisp or Granny Smith), cored and quartered",
+      "1 yellow onion, quartered",
+      "4 garlic cloves, unpeeled",
+      "4 tbsp olive oil, divided",
+      "1½ tsp kosher salt, divided",
+      "½ tsp black pepper",
+      "12 fresh sage leaves",
+      "4 cups vegetable or chicken broth",
+      "¼ tsp ground nutmeg",
+      "1 tbsp maple syrup",
+      "½ cup lactose-free heavy cream or half-and-half",
+      "1 tsp apple cider vinegar"
+    ],
+    "steps": [
+      "Preheat the oven to 425°F (220°C) and line a large sheet pan with parchment.",
+      "Toss the squash, apple, onion, and garlic with 2 tbsp olive oil, 1 tsp salt, and the pepper. Roast in one layer for 40 minutes, flipping halfway, until soft and browned at the edges.",
+      "Meanwhile, warm the remaining 2 tbsp olive oil in a large pot over medium heat. Fry the sage leaves until crisp, about 90 seconds, then lift onto a paper towel. Keep the sage oil in the pot.",
+      "Squeeze the roasted garlic out of its skins into the pot. Add the rest of the roasted veg, broth, nutmeg, and maple syrup. Simmer gently for 10 minutes.",
+      "Blend until completely smooth with an immersion blender, or in batches in a regular blender with the lid vented.",
+      "Turn the heat to low and stir in the cream — warm through but don't boil, or it can split. Stir in the vinegar and remaining ½ tsp salt. Taste and adjust.",
+      "Ladle into bowls, drizzle with a little more cream, and crumble the crispy sage on top."
+    ],
+    "notes": "Lactose-free as written (Lactaid and Organic Valley make lactose-free cream). Don't skip the vinegar — it makes the flavors pop. Freeze before adding the cream (up to 3 months) and stir it in when reheating. Keeps 4 days in the fridge. Pairs with the Maple-Mustard Pork Tenderloin — both use a 425°F oven."
+  },
+  {
+    "id": 46,
+    "slug": "gochujang-short-rib-on-crispy-parmesan-polenta",
+    "title": "Gochujang Short Rib on Crispy Parmesan Polenta",
+    "cuisine": "Korean",
+    "tags": [
+      "beef",
+      "short rib",
+      "gochujang",
+      "polenta",
+      "dinner"
+    ],
+    "prepTime": "15 min + 30 min chill",
+    "cookTime": "1 hr 45 min",
+    "servings": 1,
+    "photo": "photos/gochujang-short-rib-polenta.webp",
+    "ingredients": [
+      "180 g boneless beef short rib",
+      "1 tsp sesame oil",
+      "2 garlic cloves, minced",
+      "1 tbsp gochujang",
+      "1 tbsp tomato paste",
+      "1 tsp honey",
+      "300 ml beef stock, divided (150 ml for the beef, 150 ml for the polenta)",
+      "220 ml water, divided (100 ml for the beef, 120 ml for the polenta)",
+      "70 g quick-cook polenta",
+      "25 g Parmesan, finely grated",
+      "1 tbsp butter, divided",
+      "1 spring onion, sliced"
+    ],
+    "steps": [
+      "Heat the sesame oil and brown the short rib thoroughly on every side.",
+      "Add the garlic, gochujang, tomato paste, honey, 150 ml stock, and 100 ml water.",
+      "Cover and simmer gently for 75–90 minutes, until the beef pulls apart easily.",
+      "Shred the beef, then simmer uncovered until the sauce is thick and sticky.",
+      "Bring the remaining stock and 120 ml water to a simmer. Whisk in the polenta and cook until thick.",
+      "Stir in the Parmesan and half the butter. Spread about 2 cm thick, then chill for 30 minutes.",
+      "Cut into one slab and fry in the remaining butter for 3–4 minutes per side. Top with the beef, reduced gravy, and spring onion."
+    ],
+    "notes": "Make the polenta while the beef simmers so it's chilled and ready to fry by the time the sauce reduces."
+  },
+  {
+    "id": 45,
+    "slug": "lemon-chicken-potatoes",
+    "title": "Lemon Chicken & Potatoes",
+    "cuisine": "Mediterranean",
+    "tags": [
+      "chicken",
+      "potatoes",
+      "one pan",
+      "oven",
+      "dinner"
+    ],
+    "prepTime": "20 min",
+    "cookTime": "1 hr 10 min",
+    "servings": 6,
+    "photo": "photos/lemon-chicken-potatoes.webp",
+    "ingredients": [
+      "Chicken & potatoes: 6 bone-in, skin-on chicken thigh cutlets",
+      "Chicken & potatoes: 1 kg potatoes, peeled and cut into large chunks",
+      "Chicken & potatoes: 1 large brown onion, sliced",
+      "Chicken & potatoes: olive oil",
+      "Chicken & potatoes: dried oregano",
+      "Chicken & potatoes: salt + black pepper",
+      "Chicken & potatoes: fresh parsley, to finish",
+      "Lemon drizzle: 100 ml extra-virgin olive oil",
+      "Lemon drizzle: zest of 2 lemons, plus extra for the chicken",
+      "Lemon drizzle: juice of 2 lemons",
+      "Lemon drizzle: 3 large garlic cloves",
+      "Lemon drizzle: 2 cups stock or bone broth",
+      "Lemon drizzle: honey, to taste",
+      "Lemon drizzle: 1 tsp Dijon mustard",
+      "Lemon drizzle: salt + black pepper"
+    ],
+    "steps": [
+      "Heat oven to 180°C fan (400°F). Blend the olive oil, lemon zest and juice, garlic, Dijon, honey, stock, salt, and pepper until smooth and emulsified.",
+      "Peel and chop the potatoes into large chunks.",
+      "In your roasting pan, sauté the onion in a little olive oil until softened. Add the potatoes, pour over some of the lemon drizzle, season with a little more salt and oregano, and toss together.",
+      "Sit the chicken on top, drizzle with a little olive oil, and season with salt and a little extra lemon zest.",
+      "Roast uncovered for 1 hour, until the chicken is golden and crispy and the potatoes are soft and have soaked up the pan juices.",
+      "Pour over the remaining lemon drizzle and finish with plenty of fresh parsley."
+    ],
+    "notes": "Use an oven-safe pan so the onions can sauté and the whole dish roasts in the same pan."
+  },
+  {
+    "id": 44,
+    "slug": "mediterranean-chicken-thighs-vegetables",
+    "title": "Mediterranean Chicken Thighs & Vegetables",
+    "cuisine": "Mediterranean",
+    "tags": [
+      "chicken",
+      "one pan",
+      "oven",
+      "vegetables",
+      "dinner"
+    ],
+    "prepTime": "20 min",
+    "cookTime": "1 hr",
+    "servings": 6,
+    "photo": "photos/mediterranean-chicken-thighs.webp",
+    "ingredients": [
+      "Vegetables: ½ butternut squash, cubed",
+      "Vegetables: 2 cups cauliflower florets",
+      "Vegetables: 1 large red onion, cut into wedges",
+      "Chicken: 6 bone-in, skin-on chicken thighs",
+      "Chicken: 3 tbsp olive oil",
+      "Chicken: 2 tbsp tomato paste",
+      "Chicken: 1 tbsp Dijon mustard",
+      "Chicken: 5 garlic cloves, minced",
+      "Chicken: 1 tbsp oregano",
+      "Chicken: 1 tbsp smoked paprika",
+      "Chicken: 1 tbsp thyme (or more oregano)",
+      "Chicken: 2 tbsp water",
+      "Chicken: salt + pepper, generously",
+      "Lemon parsley: 2 tbsp olive oil",
+      "Lemon parsley: 1 tbsp fresh parsley, finely chopped",
+      "Lemon parsley: zest and juice of ½ lemon",
+      "Lemon parsley: pinch of salt"
+    ],
+    "steps": [
+      "Heat oven to 425°F. Grab a large oven-safe pan or baking dish.",
+      "Spread the squash, cauliflower, and red onion across the bottom.",
+      "Mix the olive oil, tomato paste, Dijon, garlic, oregano, smoked paprika, thyme, water, and a generous amount of salt and pepper.",
+      "Coat the chicken thighs well in the mixture and place them skin-side up over the vegetables. Pour any remaining mixture over the top.",
+      "Bake at 425°F for 45 minutes. Turn off the oven and let everything sit inside another 10–15 minutes.",
+      "Meanwhile, mix the olive oil, parsley, lemon zest and juice, and salt. Spoon over the chicken and vegetables right before serving."
+    ],
+    "notes": "Swap the vegetables for whatever you have — carrots, potatoes, and broccoli all work. Serve as is or over rice or quinoa."
+  },
+  {
+    "id": 43,
+    "slug": "braised-beef-shawarma",
+    "title": "Braised Beef Shawarma",
+    "cuisine": "Middle Eastern",
+    "tags": [
+      "beef",
+      "braise",
+      "chickpeas",
+      "one pan",
+      "dinner"
+    ],
+    "prepTime": "20 min",
+    "cookTime": "3 hr 55 min",
+    "servings": 4,
+    "photo": "photos/braised-beef-shawarma.webp",
+    "photoPosition": "50% 0%",
+    "ingredients": [
+      "Beef: 2 lbs chuck roast",
+      "Beef: salt + pepper",
+      "Beef: 1 tbsp smoked paprika",
+      "Beef: 1 tbsp garlic powder",
+      "Beef: 1 tbsp Aleppo pepper, plus more for topping",
+      "Beef: 1 tbsp thyme (or oregano)",
+      "Beef: ½ tbsp ground cumin",
+      "Beef: ½ tsp cinnamon",
+      "Beef: 6 garlic cloves",
+      "Beef: 24 oz bone broth",
+      "Veggies: 1 medium eggplant, cut into chunks",
+      "Veggies: 1 red onion, cut into chunks",
+      "Veggies: 1 red bell pepper, cut into chunks",
+      "Veggies: 1 (15-oz) can chickpeas, drained and rinsed",
+      "Veggies: salt + pepper",
+      "Sauce: ½ cup plain Greek yogurt",
+      "Sauce: 2 tbsp tahini",
+      "Sauce: juice of ½ lemon",
+      "Sauce: 1 garlic clove, finely grated",
+      "Sauce: pinch of salt",
+      "Sauce: 1–2 tbsp water",
+      "To serve: fresh parsley and lemon juice"
+    ],
+    "steps": [
+      "Preheat oven to 350°F. Place the chuck roast at the base of an oven-safe dish with a lid.",
+      "Season generously on both sides with salt, pepper, and all the spices.",
+      "Add the garlic cloves, pour in the bone broth, cover, and braise at 350°F for 3 hours.",
+      "Meanwhile, cut the veggies and drain + rinse the chickpeas.",
+      "Remove the beef and shred with 2 forks. Add the veggies and chickpeas, mix well, and return to the oven covered at 400°F for 40 minutes. Uncover and cook another 10–15 minutes until the vegetables are tender and everything takes on some color.",
+      "For the sauce, mix the yogurt, tahini, lemon juice, garlic, and salt. Add water a little at a time until creamy and drizzleable.",
+      "Top with fresh parsley, the tahini yogurt sauce, a sprinkle of Aleppo pepper, and a squeeze of lemon."
+    ],
+    "notes": "The beef braises hands-off for 3 hours, then the veggies roast right in the braising liquid — one dish start to finish."
+  },
+  {
+    "id": 40,
+    "slug": "affogato-espresso-martini",
+    "title": "Affogato Espresso Martini",
+    "cuisine": "Drinks",
+    "tags": [
+      "cocktail",
+      "espresso martini",
+      "gelato",
+      "vodka",
+      "party"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "No cook",
+    "servings": 1,
+    "photo": "photos/affogato-espresso-martini.webp",
+    "ingredients": [
+      "2 oz vodka",
+      "1 oz coffee liqueur (Kahlúa)",
+      "1 oz cold brew concentrate",
+      "½ oz simple syrup",
+      "1 small scoop vanilla gelato",
+      "3 coffee beans, to garnish"
+    ],
+    "steps": [
+      "Batch the base — vodka, coffee liqueur, cold brew, and simple syrup — ahead and chill it.",
+      "Shake each serving hard with ice; that's the only way to get the frothy cap.",
+      "Pour over a scoop of gelato in a chilled glass and top with coffee beans."
+    ],
+    "notes": "The send-off drink. Pre-scoop gelato balls onto a sheet pan and freeze them so service is fast. Keep decaf cold brew on hand for anyone who wants a nightcap without the caffeine."
+  },
+  {
+    "id": 39,
+    "slug": "frozen-soju-paloma-crowd-batch",
+    "title": "Frozen Soju Paloma (Crowd Batch)",
+    "cuisine": "Drinks",
+    "tags": [
+      "cocktail",
+      "soju",
+      "grapefruit",
+      "frozen",
+      "batch"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "Freeze 4 hrs",
+    "servings": 20,
+    "photo": "photos/frozen-soju-paloma.webp",
+    "ingredients": [
+      "2½ cups soju",
+      "6 cups fresh grapefruit juice",
+      "1 cup lime juice",
+      "1 cup simple syrup",
+      "1 tsp kosher salt",
+      "Salt or tajín, for the rims",
+      "Grapefruit wedges, to garnish"
+    ],
+    "steps": [
+      "Stir the soju, grapefruit juice, lime, simple syrup, and salt together and chill thoroughly.",
+      "Pour into a sheet pan and freeze flat, scraping with a fork every hour or so — about 4 hrs to a proper granita. (Or run it through a slushy machine.)",
+      "Rim chilled glasses with salt or tajín.",
+      "Scrape and scoop the slush into the glasses and garnish with a grapefruit wedge."
+    ],
+    "notes": "The sheet-pan freeze means no blender bottleneck when 20 people want a drink at once. Keep the mix around 8–10% ABV — too much alcohol and it won't slush up."
+  },
+  {
+    "id": 38,
+    "slug": "tinto-de-verano",
+    "title": "Tinto de Verano",
+    "cuisine": "Drinks",
+    "tags": [
+      "wine",
+      "batch",
+      "spanish",
+      "summer",
+      "easy"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "No cook",
+    "servings": 20,
+    "photo": "photos/tinto-de-verano.webp",
+    "ingredients": [
+      "Chilled red wine (~5–6 bottles for a crowd)",
+      "Lemon-lime soda (Sprite or Spanish gaseosa), equal parts",
+      "Orange slices",
+      "Ice"
+    ],
+    "steps": [
+      "Combine equal parts chilled red wine and lemon-lime soda over ice.",
+      "Add orange slices, batch it 1:1 in a drink dispenser, and let it flow."
+    ],
+    "notes": "The Spanish summer answer to sangria — one ratio, no muddling, no chopping fruit for an hour."
+  },
+  {
+    "id": 37,
+    "slug": "olive-oil-cake",
+    "title": "Olive Oil Cake",
+    "cuisine": "Italian",
+    "tags": [
+      "cake",
+      "dessert",
+      "baking",
+      "citrus",
+      "make ahead"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "45 min",
+    "servings": 10,
+    "photo": "photos/olive-oil-cake.webp",
+    "ingredients": [
+      "1¾ cups flour",
+      "1 cup sugar",
+      "1½ tsp baking powder",
+      "½ tsp salt",
+      "¾ cup olive oil",
+      "3 eggs",
+      "¾ cup milk",
+      "Zest of 1 lemon and 1 orange",
+      "2 tbsp fresh citrus juice",
+      "1 tsp vanilla",
+      "Mascarpone or Greek yogurt, for serving"
+    ],
+    "steps": [
+      "Whisk the dry ingredients. In another bowl, whisk the oil, sugar, eggs, milk, zest, juice, and vanilla.",
+      "Fold the wet into the dry until just combined. Pour into a greased, parchment-lined 9\" pan.",
+      "Bake at 350°F about 40–45 min, until a toothpick comes out clean. Cool.",
+      "Serve slices topped with a warm grilled peach and mascarpone or Greek yogurt."
+    ],
+    "notes": "Makes one 9\" cake — bake two for a crowd. It's better the next day, so bake it ahead."
+  },
+  {
+    "id": 36,
+    "slug": "grilled-peaches",
+    "title": "Grilled Peaches",
+    "cuisine": "American",
+    "tags": [
+      "peaches",
+      "grill",
+      "dessert",
+      "summer",
+      "easy"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "5 min",
+    "servings": 16,
+    "photo": "photos/grilled-peaches.webp",
+    "ingredients": [
+      "15–18 firm-ripe peaches",
+      "Oil or melted butter, for brushing",
+      "Vanilla ice cream or Greek yogurt, for serving"
+    ],
+    "steps": [
+      "Halve and pit the firm-ripe peaches. Brush the cut sides with a little oil or butter.",
+      "Grill cut-side down over medium 4–5 min, until caramelized grill marks form.",
+      "Serve warm with vanilla ice cream, or Greek yogurt for a lighter option."
+    ],
+    "notes": "Grill them after the mains come off, while the fire is dying down. Firm-ripe is essential — soft peaches collapse on the grate."
+  },
+  {
+    "id": 34,
+    "slug": "watermelon-feta-salad",
+    "title": "Watermelon Feta Salad",
+    "cuisine": "American",
+    "tags": [
+      "watermelon",
+      "feta",
+      "no cook",
+      "side",
+      "summer"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "No cook",
+    "servings": 20,
+    "photo": "photos/watermelon-feta-salad.webp",
+    "ingredients": [
+      "2 large watermelons, cubed",
+      "12 oz feta, crumbled",
+      "1 large bunch fresh mint, torn",
+      "2 limes",
+      "Flaky salt",
+      "Olive oil (optional)"
+    ],
+    "steps": [
+      "Cube the watermelon and chill it well — cold is half the dish.",
+      "Just before serving, pile the watermelon on a platter and scatter the crumbled feta and torn mint over the top.",
+      "Squeeze the limes over everything, finish with flaky salt and a thread of olive oil if you like."
+    ],
+    "notes": "Dress it at the last second; salted watermelon starts weeping within minutes. Keep the mint torn, not chopped — it bruises and darkens."
+  },
+  {
+    "id": 33,
+    "slug": "jalapeno-cheddar-skillet-cornbread",
+    "title": "Jalapeño Cheddar Skillet Cornbread",
+    "cuisine": "American",
+    "tags": [
+      "cornbread",
+      "cast iron",
+      "side",
+      "baking",
+      "cheddar"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "25 min",
+    "servings": 16,
+    "photo": "photos/jalapeno-cheddar-cornbread.webp",
+    "ingredients": [
+      "2 cups cornmeal",
+      "2 cups flour",
+      "2 tbsp baking powder",
+      "1½ tsp salt",
+      "2 tbsp sugar",
+      "2½ cups buttermilk",
+      "4 eggs",
+      "¾ cup melted butter, plus more for the skillets",
+      "2 cups shredded sharp cheddar",
+      "3–4 jalapeños, diced (seed to control heat)"
+    ],
+    "steps": [
+      "Put the buttered skillets in the oven and preheat to 425°F until screaming hot.",
+      "Whisk the dry ingredients. Separately whisk the buttermilk, eggs, and melted butter. Combine — don't overmix; lumpy is good. Fold in the cheddar and jalapeños.",
+      "Pour the cold batter into the hot skillets; it should sizzle. Bake 22–25 min until golden and set.",
+      "Bake fresh the morning of for crispy edges, and cut into wedges."
+    ],
+    "notes": "Makes two 10–12\" cast-iron skillets. Cold batter into a screaming-hot buttered skillet is what gives you the crust."
+  },
+  {
+    "id": 32,
+    "slug": "summer-arugula-salad",
+    "title": "Summer Arugula Salad",
+    "cuisine": "American",
+    "tags": [
+      "salad",
+      "arugula",
+      "chickpeas",
+      "side",
+      "diabetic-ok"
+    ],
+    "prepTime": "20 min",
+    "cookTime": "25 min",
+    "servings": 20,
+    "photo": "photos/summer-arugula-salad.webp",
+    "ingredients": [
+      "~2 lbs arugula",
+      "2 pints snacking tomatoes, halved",
+      "Red, orange, and yellow peppers, diced",
+      "1 red onion, thinly sliced",
+      "2 cans chickpeas, drained",
+      "Olive oil, for roasting",
+      "Smoked paprika and salt",
+      "Dressing: olive oil, balsamic, fresh lemon",
+      "Smoked sea salt, to finish"
+    ],
+    "steps": [
+      "Roast the drained chickpeas at 400°F about 25 min with oil, salt, and smoked paprika until crisp; cool.",
+      "Whisk the dressing — roughly 3 parts oil to 1 part balsamic, plus a squeeze of lemon.",
+      "Dress at the very last second and scatter the chickpeas on top at serving so nothing goes soggy. Finish with smoked sea salt."
+    ],
+    "notes": "The crisp chickpeas are the whole point — they go on at the table, never in the bowl ahead of time."
+  },
+  {
+    "id": 30,
+    "slug": "lemon-thyme-thin-chicken-breasts",
+    "title": "Lemon-Thyme Thin Chicken Breasts",
+    "cuisine": "American",
+    "tags": [
+      "chicken",
+      "grill",
+      "fast",
+      "marinade",
+      "diabetic-ok"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "8 min",
+    "servings": 12,
+    "photo": "photos/lemon-thyme-chicken.webp",
+    "ingredients": [
+      "4–5 lbs thin chicken cutlets",
+      "⅓ cup olive oil",
+      "Juice and zest of 2 lemons",
+      "3 tbsp fresh thyme",
+      "4 cloves garlic, minced",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Marinate the thin breasts 1–3 hrs. Buy pre-sliced cutlets to skip the pounding.",
+      "Grill hot and fast — about 3–4 min per side. Pull them the instant they hit 165°F.",
+      "Cook close to serving time so they're juicy at the table, not drying out on a tray."
+    ],
+    "notes": "The lightest main on the menu. Everything about it rewards speed — thin cutlets, hot grill, immediate service."
+  },
+  {
+    "id": 29,
+    "slug": "grilled-sausages",
+    "title": "Grilled Sausages",
+    "cuisine": "American",
+    "tags": [
+      "sausage",
+      "grill",
+      "beer",
+      "party",
+      "easy"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "servings": 20,
+    "photo": "photos/grilled-sausages.webp",
+    "ingredients": [
+      "~20 sausages (mix bratwurst, hot Italian, andouille)",
+      "2–3 cans or bottles beer",
+      "2 onions, sliced, for the simmer",
+      "Bell peppers and onions, to grill alongside",
+      "Rolls",
+      "Spicy mustard"
+    ],
+    "steps": [
+      "Simmer the sausages in beer with the sliced onions about 10 min — this cooks them through.",
+      "Sear on the charcoal grill for color and char, turning until browned.",
+      "Grill a big pile of peppers and onions alongside; serve on a platter with rolls and mustard."
+    ],
+    "notes": "The beer simmer means no raw centers and no burnt skins — the grill is purely for char."
+  },
+  {
+    "id": 41,
+    "slug": "hot-honey-wings",
+    "title": "Hot Honey Wings",
+    "cuisine": "American",
+    "tags": [
+      "chicken",
+      "wings",
+      "hot honey",
+      "oven",
+      "party"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "45 min",
+    "servings": 8,
+    "photo": "photos/hot-honey-wings.webp",
+    "ingredients": [
+      "4 lbs chicken wings",
+      "1 tbsp baking powder (not soda)",
+      "1½ tsp salt",
+      "Garlic powder and salt, to season before cooking",
+      "¾ cup honey",
+      "3 tbsp hot sauce",
+      "1½ tsp chili flakes",
+      "Splash of vinegar",
+      "Flaky salt, to finish"
+    ],
+    "steps": [
+      "Pat the wings bone-dry. Season with garlic powder and salt, then toss with the baking powder and salt.",
+      "Bake at 425°F about 45 min, flipping once, until deep golden — or grill two-zone until crisp.",
+      "Warm the honey, hot sauce, chili flakes, and vinegar until loose.",
+      "Toss the crispy wings in the hot honey and finish with flaky salt."
+    ],
+    "notes": "Baking powder is the crisping trick — make sure it's powder, not soda. Seasoning before cooking is what keeps these from tasting like sauce on bare skin. Scale up for a crowd; 7–8 lbs of wings covers ~20 guests if you're running two flavors."
+  },
+  {
+    "id": 42,
+    "slug": "pineapple-habanero-wings",
+    "title": "Pineapple Habanero Wings",
+    "cuisine": "American",
+    "tags": [
+      "chicken",
+      "wings",
+      "habanero",
+      "glaze",
+      "party"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "55 min",
+    "servings": 8,
+    "photo": "photos/pineapple-habanero-wings.webp",
+    "ingredients": [
+      "4 lbs chicken wings",
+      "1 tbsp baking powder (not soda)",
+      "1½ tsp salt",
+      "1½ cups pineapple juice",
+      "2 habaneros, seeded (start with 1)",
+      "4 cloves garlic",
+      "3 tbsp brown sugar",
+      "Juice of 1 lime",
+      "Splash of rice vinegar"
+    ],
+    "steps": [
+      "Pat the wings bone-dry. Toss with the baking powder and salt.",
+      "Bake at 425°F about 45 min, flipping once, until deep golden — or grill two-zone until crisp.",
+      "Simmer the pineapple juice, habaneros, garlic, brown sugar, lime, and vinegar 10–12 min until reduced to a glaze; strain.",
+      "Toss the crispy wings in the warm glaze and serve right away."
+    ],
+    "notes": "Habanero is serious — seed them, start with one, and taste the glaze before committing the whole batch. Baking powder is the crisping trick; make sure it's powder, not soda."
+  },
+  {
+    "id": 27,
+    "slug": "korean-slow-cooker-pulled-pork",
+    "title": "Korean Slow-Cooker Pulled Pork",
+    "cuisine": "Korean",
+    "tags": [
+      "pork",
+      "slow cooker",
+      "gochujang",
+      "make ahead",
+      "party"
+    ],
+    "prepTime": "20 min",
+    "cookTime": "8 hrs",
+    "servings": 20,
+    "photo": "photos/korean-pulled-pork.webp",
+    "ingredients": [
+      "8–10 lbs pork shoulder, cut into big chunks",
+      "1¼ cups soy sauce",
+      "¾ cup gochujang",
+      "½–⅔ cup brown sugar",
+      "½ cup rice vinegar",
+      "3 tbsp sesame oil",
+      "2–3 tbsp gochugaru, to taste",
+      "16–20 cloves garlic, minced",
+      "4 tbsp grated ginger",
+      "1 Asian pear or apple, grated",
+      "Scallions and toasted sesame seeds, to finish",
+      "Slider buns, for serving"
+    ],
+    "steps": [
+      "Cut the pork into big chunks. Mix the sauce and toss the pork to coat. Split between two slow cookers.",
+      "Cook on LOW about 8 hrs, until fork-tender.",
+      "Shred with two forks. Skim the excess fat, then return the pork to the juices.",
+      "Top with scallions and sesame seeds. Serve on slider buns with extra sauce on the side."
+    ],
+    "notes": "Start it early in the morning so it's done and holding by mid-afternoon. Two slow cookers are needed for this quantity."
+  },
+  {
+    "id": 26,
+    "slug": "bbq-baby-back-ribs",
+    "title": "BBQ Baby Back Ribs",
+    "cuisine": "American",
+    "tags": [
+      "pork",
+      "ribs",
+      "bbq",
+      "oven",
+      "charcoal",
+      "make ahead"
+    ],
+    "prepTime": "20 min",
+    "cookTime": "3 hrs",
+    "servings": 20,
+    "photo": "photos/bbq-baby-back-ribs.webp",
+    "ingredients": [
+      "6 racks baby back ribs",
+      "½ cup brown sugar",
+      "¼ cup paprika",
+      "2 tbsp garlic powder",
+      "2 tbsp onion powder",
+      "2 tbsp kosher salt",
+      "1 tbsp black pepper",
+      "1–2 tsp cayenne",
+      "BBQ sauce, for finishing and serving"
+    ],
+    "steps": [
+      "Peel the membrane off the back of each rack. Mix the rub and coat the racks all over — do this the day before, wrap, and refrigerate.",
+      "Wrap the racks in foil and bake at 275°F for 2.5–3 hrs, until tender. A vertical rib rack fits more at once.",
+      "Rest them wrapped. Just before serving, brush with BBQ sauce and caramelize on the charcoal grill, 3–4 min per side.",
+      "Serve extra sauce on the side — it keeps things lighter for guests watching sugar."
+    ],
+    "notes": "Oven low-and-slow, charcoal only at the end. Rub them the night before for the best crust."
+  },
+  {
+    "id": 22,
+    "slug": "garlic-rosemary-lamb-lollipops",
+    "title": "Garlic & Rosemary Lamb Lollipops",
+    "cuisine": "American",
+    "tags": [
+      "lamb",
+      "grill",
+      "appetizer",
+      "party",
+      "diabetic-ok"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "10 min",
+    "servings": 12,
+    "photo": "photos/lamb-lollipops.webp",
+    "ingredients": [
+      "30–35 frenched lamb rib chops (~4 racks)",
+      "⅓ cup olive oil",
+      "8–10 cloves garlic, minced",
+      "3 tbsp fresh rosemary, chopped",
+      "Zest of 1 lemon",
+      "Kosher salt and black pepper",
+      "Flaky salt, to finish"
+    ],
+    "steps": [
+      "Whisk the oil, garlic, rosemary, lemon zest, 1 tsp salt, and pepper. Coat the chops and marinate 1–4 hrs in the fridge.",
+      "Get the gas grill screaming hot. Sear the chops 2–3 min per side for medium-rare (internal ~130°F).",
+      "Rest 5 min and finish with flaky salt. Sear in batches and serve hot as guests arrive."
+    ],
+    "notes": "The opener for a crowd — cook the first batch right as people arrive so they walk into the smell of them. Scaled for ~22–25 guests."
+  },
+  {
+    "id": 21,
+    "slug": "espresso-martini-vampire-s-kiss",
+    "title": "Espresso Martini — \"Vampire's Kiss\"",
+    "cuisine": "Drinks",
+    "tags": [
+      "cocktail",
+      "espresso martini",
+      "halloween",
+      "vodka",
+      "party"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "No cook",
+    "servings": 1,
+    "photo": "photos/vampires-kiss-espresso-martini.webp",
+    "ingredients": [
+      "2 oz vodka",
+      "1 oz fresh espresso (slightly cooled)",
+      "0.75 oz coffee liqueur",
+      "0.25 oz simple syrup",
+      "1 bar spoon Chambord",
+      "Red sanding sugar, for the rim",
+      "Grenadine, for the drip"
+    ],
+    "steps": [
+      "Rim a chilled coupe with red sanding sugar.",
+      "Add the vodka, espresso, coffee liqueur, simple syrup, and Chambord to a shaker with ice. Shake hard for 15–20 seconds.",
+      "Double-strain into the rimmed coupe.",
+      "Drizzle a little grenadine down the inside of the glass for a \"blood\" effect."
+    ],
+    "notes": "Spooky-red Halloween variation, with Chambord for berry depth. Garnish: red-sugar rim and a grenadine drip. Shake hard for 15–20 seconds — the vigorous shake is what builds the foamy crema on top. Fresh espresso, cooled about a minute, keeps the ice from melting and the foam intact. Don't skip the simple syrup; the crema needs a little sugar to hold its structure."
+  },
+  {
+    "id": 20,
+    "slug": "espresso-martini-black-widow",
+    "title": "Espresso Martini — \"Black Widow\"",
+    "cuisine": "Drinks",
+    "tags": [
+      "cocktail",
+      "espresso martini",
+      "halloween",
+      "vodka",
+      "party"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "No cook",
+    "servings": 1,
+    "photo": "photos/black-widow-espresso-martini.webp",
+    "ingredients": [
+      "2 oz vodka",
+      "1 oz fresh espresso (slightly cooled)",
+      "0.75 oz coffee liqueur",
+      "0.25 oz simple syrup",
+      "A few drops black food coloring (or a small pinch of activated charcoal)",
+      "Black sanding sugar, for the rim"
+    ],
+    "steps": [
+      "Rim a chilled coupe with black sanding sugar.",
+      "Add all ingredients to a shaker with ice.",
+      "Shake hard for 15–20 seconds, until jet black and foamy.",
+      "Double-strain into the rimmed coupe."
+    ],
+    "notes": "Halloween showpiece. Garnish: a plastic spider, or a \"web\" of white chocolate drizzled across the foam. Shake hard for 15–20 seconds — the vigorous shake is what builds the foamy crema on top. Fresh espresso, cooled about a minute, keeps the ice from melting and the foam intact. Don't skip the simple syrup; the crema needs a little sugar to hold its structure."
+  },
+  {
+    "id": 19,
+    "slug": "pistachio-espresso-martini",
+    "title": "Pistachio Espresso Martini",
+    "cuisine": "Drinks",
+    "tags": [
+      "cocktail",
+      "espresso martini",
+      "pistachio",
+      "vodka",
+      "dessert"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "No cook",
+    "servings": 1,
+    "photo": "photos/pistachio-espresso-martini.webp",
+    "ingredients": [
+      "1.5 oz vodka",
+      "0.75 oz pistachio liqueur (Dumante or a pistachio cream liqueur)",
+      "1 oz fresh espresso (slightly cooled)",
+      "0.5 oz coffee liqueur",
+      "0.25 oz simple syrup",
+      "Caramel and crushed pistachios, for the rim"
+    ],
+    "steps": [
+      "Rim a chilled coupe with caramel and roll it in crushed pistachios.",
+      "Add the vodka, pistachio liqueur, espresso, coffee liqueur, and simple syrup to a shaker with ice.",
+      "Shake hard for 15–20 seconds.",
+      "Double-strain into the rimmed coupe."
+    ],
+    "notes": "Comes out a pretty pale green and tastes like a coffee-nut dessert. Creamier version: drop the vodka to 1 oz and add 0.5 oz half-and-half. Shake hard for 15–20 seconds — the vigorous shake is what builds the foamy crema on top. Fresh espresso, cooled about a minute, keeps the ice from melting and the foam intact. Don't skip the simple syrup; the crema needs a little sugar to hold its structure."
+  },
+  {
+    "id": 18,
+    "slug": "vanilla-bean-espresso-martini",
+    "title": "Vanilla Bean Espresso Martini",
+    "cuisine": "Drinks",
+    "tags": [
+      "cocktail",
+      "espresso martini",
+      "vanilla",
+      "vodka",
+      "dessert"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "No cook",
+    "servings": 1,
+    "photo": "photos/vanilla-bean-espresso-martini.webp",
+    "ingredients": [
+      "2 oz vanilla vodka",
+      "1 oz fresh espresso (slightly cooled)",
+      "0.75 oz coffee liqueur",
+      "0.25 oz vanilla syrup"
+    ],
+    "steps": [
+      "Add all ingredients to a shaker with ice.",
+      "Shake hard for 15–20 seconds.",
+      "Double-strain into a chilled coupe."
+    ],
+    "notes": "Smoother and a little more dessert-forward than the classic. Garnish: coffee beans or a vanilla bean pod. Shake hard for 15–20 seconds — the vigorous shake is what builds the foamy crema on top. Fresh espresso, cooled about a minute, keeps the ice from melting and the foam intact. Don't skip the simple syrup; the crema needs a little sugar to hold its structure."
+  },
+  {
+    "id": 17,
+    "slug": "salted-caramel-espresso-martini",
+    "title": "Salted Caramel Espresso Martini",
+    "cuisine": "Drinks",
+    "tags": [
+      "cocktail",
+      "espresso martini",
+      "caramel",
+      "vodka",
+      "dessert"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "No cook",
+    "servings": 1,
+    "photo": "photos/salted-caramel-espresso-martini.webp",
+    "ingredients": [
+      "2 oz vodka",
+      "1 oz fresh espresso (slightly cooled)",
+      "0.5 oz coffee liqueur",
+      "0.5 oz salted caramel syrup",
+      "Tiny pinch of flaky salt"
+    ],
+    "steps": [
+      "Rim a chilled coupe with caramel first if you want it extra indulgent.",
+      "Add all ingredients to a shaker with ice.",
+      "Shake hard for 15–20 seconds.",
+      "Double-strain into the coupe."
+    ],
+    "notes": "Garnish: flaky salt and a caramel drizzle. Shake hard for 15–20 seconds — the vigorous shake is what builds the foamy crema on top. Fresh espresso, cooled about a minute, keeps the ice from melting and the foam intact. Don't skip the simple syrup; the crema needs a little sugar to hold its structure."
+  },
+  {
+    "id": 16,
+    "slug": "classic-espresso-martini",
+    "title": "Classic Espresso Martini",
+    "cuisine": "Drinks",
+    "tags": [
+      "cocktail",
+      "espresso martini",
+      "coffee",
+      "vodka"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "No cook",
+    "servings": 1,
+    "photo": "photos/classic-espresso-martini.webp",
+    "ingredients": [
+      "2 oz vodka",
+      "1 oz fresh espresso (slightly cooled)",
+      "0.5 oz coffee liqueur (Kahlúa or Mr Black)",
+      "0.25 oz simple syrup"
+    ],
+    "steps": [
+      "Add everything to a shaker with ice.",
+      "Shake hard for 15–20 seconds — that vigorous shake is what builds the foamy crema on top.",
+      "Double-strain into a chilled coupe."
+    ],
+    "notes": "Garnish: 3 coffee beans. Shake hard for 15–20 seconds — the vigorous shake is what builds the foamy crema on top. Fresh espresso, cooled about a minute, keeps the ice from melting and the foam intact. Don't skip the simple syrup; the crema needs a little sugar to hold its structure."
+  },
+  {
+    "id": 15,
+    "slug": "bacon-onion-maple-jam-blt",
+    "title": "Bacon & Onion Maple Jam BLT",
+    "cuisine": "American",
+    "tags": [
+      "sandwich",
+      "bacon",
+      "condiment",
+      "lunch",
+      "make ahead"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "65 min",
+    "servings": 4,
+    "photo": "photos/bacon-jam-blt.webp",
+    "ingredients": [
+      "½ lb thick-cut bacon, chopped into ½-inch pieces",
+      "2 large yellow onions, thinly sliced",
+      "3 cloves garlic, minced",
+      "⅓ cup pure maple syrup",
+      "2 tbsp brown sugar",
+      "⅓ cup white or red wine vinegar (or cider vinegar)",
+      "½ cup cold brew coffee (see notes; or water)",
+      "1 tsp Dijon mustard (stirred in at the end)",
+      "½ tsp smoked paprika",
+      "Black pepper, to taste",
+      "Chili flakes, optional",
+      "Per sandwich: 3–4 strips bacon",
+      "Per sandwich: sourdough or ciabatta",
+      "Per sandwich: leaf lettuce",
+      "Per sandwich: ripe tomato, sliced",
+      "Per sandwich: mayo"
+    ],
+    "steps": [
+      "Render the bacon. Cook over medium in a heavy pot until browned but not crisp, 8–10 min. Scoop out and drain, leaving about 2 tbsp of fat in the pot.",
+      "Caramelize slow. Add onions to the bacon fat and cook low, stirring now and then, until deeply golden — 20–25 min. Don't rush it; this is the flavor. Add garlic for the last minute.",
+      "Deglaze and combine. Add maple, brown sugar, vinegar, coffee, paprika, pepper, and chili. Return the bacon. Stir and bring to a gentle simmer.",
+      "Reduce to jammy. Simmer uncovered on low, 30–45 min, stirring occasionally, until thick and spreadable and most of the liquid is gone. Splash in water if it tightens too far.",
+      "Finish savory. Off the heat, stir in the Dijon. Leave it chunky — no food processor — so it grips the bread. Cool slightly; store in the fridge.",
+      "Crisp the sandwich bacon in the oven. Lay strips flat on a foil-lined rimmed sheet (a wire rack on top makes it extra crispy). Start in a cold oven, set to 400°F, and bake 18–20 min for regular-cut or 20–25 min for thick-cut — no flipping. Pull it a shade light; it crisps as it cools. Drain on paper towel. Run this while the jam simmers.",
+      "Toast the sourdough or ciabatta; warm the jam slightly so it spreads.",
+      "Spread mayo on one slice, bacon jam on the other.",
+      "Layer lettuce first — it shields the toast from the tomato so it stays crisp. Then tomato, then the crispy bacon.",
+      "Close and eat immediately, while everything's still warm and crunchy."
+    ],
+    "notes": "A BLT-tuned bacon and onion maple jam — leaner, tangier, and savory enough to earn its place next to the mayo and crispy bacon. Makes about 1¼ cups of jam. Cold brew: often sold as concentrate — if yours is, use ¼ cup cold brew + ¼ cup water; if ready-to-drink, use the full ½ cup. The coffee is just for depth, so it's forgiving. Vinegar: white wine vinegar is the closest match to cider vinegar (1:1), red wine works too; plain white/distilled is sharper — drop to ¼ cup, as does lemon juice. Keeping it: with less sugar than a standard bacon jam, this batch keeps about a week — not shelf-stable. Warm before serving; the bacon fat firms up cold."
+  },
+  {
+    "id": 14,
+    "slug": "soju-paloma-slushy",
+    "title": "Soju Paloma Slushy",
+    "cuisine": "Drinks",
+    "tags": [
+      "cocktail",
+      "frozen",
+      "soju",
+      "grapefruit",
+      "party",
+      "batch"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "Freeze to slush",
+    "servings": 1,
+    "photo": "photos/soju-paloma.webp",
+    "ingredients": [
+      "2 oz soju (a clean one like Jinro 24)",
+      "3 oz fresh grapefruit juice",
+      "0.5 oz fresh lime juice",
+      "0.5 oz simple syrup (or agave)",
+      "Pinch of salt",
+      "Grapefruit wedge, to garnish",
+      "Tajín, for the rim"
+    ],
+    "steps": [
+      "Single serving: combine the soju, grapefruit juice, lime juice, simple syrup, and a pinch of salt; stir and pour over crushed ice (or blend with ice for a quick slush).",
+      "Slushy machine batch (~1 gallon / ~20 servings): combine 2.5 cups soju, 6 cups grapefruit juice, 1 cup lime juice, 1 cup simple syrup, 1 tsp kosher salt, and 1.5 cups water.",
+      "Pre-chill everything before pouring into the machine — it'll reach slush consistency faster.",
+      "Run the machine until slushed. Skip the grapefruit soda in the machine itself.",
+      "Rim chilled glasses with tajín, fill with slush, garnish with a grapefruit wedge, and — if you want fizz — top with a splash of Topo Chico or Jarritos Grapefruit."
+    ],
+    "notes": "Soju is great for slushies because its lower ABV (vs. tequila) freezes more consistently. Keep the final mix around 8–10% ABV — too much alcohol and it won't slush up properly; this recipe lands in that range. A salted tajín rim is the move."
+  },
+  {
+    "id": 13,
+    "slug": "shakshuka-with-feta",
+    "title": "Shakshuka With Feta",
+    "cuisine": "Middle Eastern",
+    "tags": [
+      "eggs",
+      "one pan",
+      "brunch",
+      "vegetarian",
+      "dinner"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "40 min",
+    "servings": 5,
+    "photo": "photos/shakshuka-with-feta.webp",
+    "ingredients": [
+      "3 tbsp extra-virgin olive oil",
+      "1 large onion, halved and thinly sliced",
+      "1 large red bell pepper, seeded and thinly sliced",
+      "3 garlic cloves, thinly sliced",
+      "1 tsp ground cumin",
+      "1 tsp sweet paprika",
+      "⅛ tsp ground cayenne, or to taste",
+      "1 (28-oz) can whole plum tomatoes with their juices, coarsely chopped",
+      "¾ tsp kosher salt, plus more as needed",
+      "¼ tsp black pepper, plus more as needed",
+      "5 oz feta, crumbled (about 1¼ cups)",
+      "6 large eggs",
+      "Chopped cilantro, for serving",
+      "Hot sauce, for serving"
+    ],
+    "steps": [
+      "Heat oven to 375°F. Heat the oil in a large skillet over medium-low. Add the onion and bell pepper and cook gently until very soft, about 20 minutes.",
+      "Add the garlic and cook until tender, 1 to 2 minutes, then stir in the cumin, paprika, and cayenne and cook 1 minute more.",
+      "Pour in the tomatoes and season with ¾ tsp salt and ¼ tsp pepper. Simmer until the tomatoes have thickened, about 10 minutes. Taste and add more salt and pepper if needed, then stir in the crumbled feta.",
+      "Gently crack the eggs into the skillet over the tomatoes. Season the eggs with salt and pepper.",
+      "Transfer the skillet to the oven and bake until the eggs are just set, 7 to 10 minutes. Sprinkle with cilantro and serve with hot sauce."
+    ],
+    "notes": "Melissa Clark's take for The New York Times. Shakshuka originated in North Africa and is beloved as a bright, spicy breakfast in Israel — though it makes excellent brunch, lunch, or dinner too. This version strays from tradition by adding crumbled feta, which softens into creamy nuggets in the oven's heat. Serve with a pile of pita or challah for mopping."
+  },
+  {
+    "id": 12,
+    "slug": "braised-chicken-with-artichokes-and-olives",
+    "title": "Braised Chicken With Artichokes and Olives",
+    "cuisine": "Italian",
+    "tags": [
+      "chicken",
+      "braise",
+      "main",
+      "mediterranean",
+      "dinner"
+    ],
+    "prepTime": "30 min",
+    "cookTime": "45 min",
+    "servings": 4,
+    "photo": "photos/braised-chicken-artichokes-olives.webp",
+    "ingredients": [
+      "1½ lemons",
+      "3 medium artichokes, about 1½ lb",
+      "3½ lb bone-in chicken pieces",
+      "2 tsp kosher salt",
+      "2 tsp black pepper",
+      "2 tbsp extra-virgin olive oil, more as needed",
+      "4 garlic cloves, smashed and peeled",
+      "1½ cups cherry tomatoes, halved",
+      "Pinch of red-pepper flakes",
+      "¾ cup dry white wine",
+      "⅓ cup pitted olives, halved (black, green, or a mix)",
+      "2 large rosemary branches",
+      "1 tbsp unsalted butter",
+      "Grated Parmigiano-Reggiano, as needed",
+      "Chives or mint leaves, for garnish (optional)"
+    ],
+    "steps": [
+      "Squeeze the juice of 1 lemon into a large bowl of water. Discard the outer leaves of each artichoke, dipping them into the lemon water as you go to stop the cut sides browning. Peel the base and stems, slice off the top third, then halve lengthwise. Scoop out the hairy chokes and any prickly purple leaves, then slice each half into three pieces and return to the lemon water until needed.",
+      "Heat oven to 375°F. Pat the chicken dry and season with salt and pepper. In a large (12-inch) ovenproof skillet with a lid, heat the oil over medium-high. Sear the chicken in batches until well browned, 5 to 7 minutes per side, then transfer to a plate.",
+      "Add the artichokes and garlic to the pan, adding more oil if needed, and cook, turning occasionally, until golden brown, about 5 minutes. Stir in the tomatoes and red-pepper flakes; cook 1 minute more.",
+      "Pour in the wine and stir in the olives, rosemary branches, and grated zest of ½ lemon (don't discard the zested lemon). Return the chicken to the pan and bring the liquid to a simmer.",
+      "Cover and transfer to the oven. Cook until the chicken is tender, 30 to 35 minutes (check white meat after 25 minutes and pull it if done). Move the chicken to a plate and set the skillet over medium-high heat. Simmer until the pan juices thicken and turn saucelike, 3 to 5 minutes, then whisk in the butter.",
+      "Return the chicken to the pan and sprinkle with cheese. Set the oven to broil and place the pan inside until the cheese is melted and golden, 2 to 3 minutes — watch closely so it doesn't burn. Squeeze the juice of the remaining lemon half over the pan and serve garnished with chives or mint."
+    ],
+    "notes": "Melissa Clark's Mediterranean braise for The New York Times — artichokes, garlic, olives, and a lemon-brightened white wine sauce. Fresh artichokes have the most pronounced flavor and meatiest texture, but a 9- or 10-oz package of frozen artichoke hearts works if you'd rather skip the cleaning. Serve with crusty bread for sauce-mopping."
+  },
+  {
+    "id": 11,
+    "slug": "slow-cooker-honey-soy-braised-pork",
+    "title": "Slow Cooker Honey-Soy Braised Pork",
+    "cuisine": "Korean",
+    "tags": [
+      "pork",
+      "slow cooker",
+      "main",
+      "make ahead",
+      "set and forget"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "8–9 hrs",
+    "servings": 7,
+    "photo": "photos/honey-soy-braised-pork.webp",
+    "ingredients": [
+      "3–4 lb boneless, skinless pork shoulder, trimmed of big hunks of fat and cut in half",
+      "8 large garlic cloves, finely chopped",
+      "3 tbsp minced fresh ginger (from one 3-inch piece)",
+      "1 tsp red-pepper flakes, plus more to taste",
+      "2 tsp finely grated lime zest and 2 tbsp juice (from 1 lime), plus lime wedges for serving",
+      "1 cup tamari or low-sodium soy sauce",
+      "1 cup honey",
+      "1 tbsp toasted sesame oil",
+      "Cooked rice, noodles, or lettuce cups, for serving",
+      "Toasted sesame seeds, sliced scallions, and chopped cilantro, for topping"
+    ],
+    "steps": [
+      "Place the pork in a 6- to 8-quart slow cooker. Scatter the garlic, ginger, red-pepper flakes, and lime zest over the top.",
+      "In a liquid measuring cup, whisk together the tamari, honey, and sesame oil, then pour it over the pork. Using tongs, turn to coat all sides, spooning some over the top so some of the garlic and ginger sits on top of the pork.",
+      "Cover and cook on low until the pork is very tender and shreds easily with a fork, 8 to 9 hours; it holds well on warm. If you're home, flipping the pork once during cooking helps the flavors and color distribute evenly — but it'll be fine if you can't.",
+      "Transfer the pork to a serving platter. Skim excess fat off the cooking liquid if desired, then carefully pour the sauce into a large pot. Bring to a boil over medium-high heat and simmer until reduced and slightly syrupy, 15 to 20 minutes. Meanwhile, coarsely shred the pork with two forks.",
+      "Sprinkle the lime juice over the meat. Drizzle about half the sauce over the shredded pork, tossing to combine. Serve over rice or noodles or in lettuce cups, topped with sesame seeds, scallions, and cilantro. Pass the remaining sauce, extra lime wedges, and red-pepper flakes at the table."
+    ],
+    "notes": "A truly set-it-and-forget-it slow-cooker main from Sarah DiGregorio for The New York Times. About 5 minutes to throw together in the morning. Tamari is gluten-free and a little less salty than grocery-store soy sauce, so it works slightly better here. Build a meal around it: lettuce cups and kimchi, or rice, whole grains, or tortillas."
+  },
+  {
+    "id": 10,
+    "slug": "mustard-glazed-pork-tenderloin",
+    "title": "Mustard-Glazed Pork Tenderloin",
+    "cuisine": "American",
+    "tags": [
+      "pork",
+      "grill",
+      "main",
+      "dinner",
+      "quick",
+      "5 ingredients"
+    ],
+    "prepTime": "15 min + marinate",
+    "cookTime": "25 min",
+    "servings": 4,
+    "photo": "photos/mustard-glazed-pork-tenderloin.webp",
+    "ingredients": [
+      "1½ lb pork tenderloins",
+      "3 tbsp brown sugar",
+      "2 tbsp grainy mustard",
+      "2 tsp fresh or dried rosemary, chopped",
+      "2 tbsp dry sherry",
+      "Olive oil, for the pan",
+      "Salt and pepper, to taste"
+    ],
+    "steps": [
+      "Pat the tenderloins dry with paper towels.",
+      "Combine the brown sugar, grainy mustard, rosemary, and sherry in a bowl and stir. Add the tenderloins and turn to coat well. Marinate 15 minutes, or as long as overnight.",
+      "Heat a large cast iron skillet or grill pan over medium-high heat until smoking. (Or heat a charcoal or gas grill to high, banking the coals or turning off a burner on one side.) Season the tenderloins with salt and pepper.",
+      "Brush the pan with olive oil and add the tenderloins; reduce heat to medium-low. Cook, turning every 3 to 4 minutes, until deeply caramelized on all sides and at your desired internal temperature — about 20 to 25 minutes. (You can also broil them: about 10 minutes on one side, then turn and cook about 5 minutes more.)",
+      "Remove and tent loosely with foil. Rest about 10 minutes, then cut into ¼- to ½-inch slices."
+    ],
+    "notes": "A savory-sweet treatment for pork tenderloin brought to The New York Times in 1989 by Marian Burros. Just five core ingredients for a supremely satisfying dish. Serve with mashed sweet potatoes and a pile of sautéed greens — and the leftovers make great sandwiches."
+  },
+  {
+    "id": 9,
+    "slug": "fabada-asturiana",
+    "title": "Fabada Asturiana",
+    "cuisine": "Spanish",
+    "tags": [
+      "stew",
+      "beans",
+      "pork",
+      "comfort food",
+      "slow cook"
+    ],
+    "prepTime": "20 min (+ overnight soak)",
+    "cookTime": "2 hrs 30 min",
+    "servings": 6,
+    "photo": "photos/fabada-asturiana.webp",
+    "ingredients": [
+      "500g dried fabes (large white Asturian beans) — soaked overnight in cold water",
+      "200g morcilla (Spanish blood sausage)",
+      "200g chorizo (semi-cured Spanish chorizo)",
+      "200g lacón or smoked ham hock",
+      "100g panceta (cured pork belly) or thick-cut bacon",
+      "1 whole head of garlic",
+      "1 tsp sweet smoked paprika (pimentón de la Vera)",
+      "A generous pinch of saffron threads",
+      "2 bay leaves",
+      "Salt to taste",
+      "Cold water to cover"
+    ],
+    "steps": [
+      "Drain the soaked beans and place them in a large pot. Cover with fresh cold water by about 5cm.",
+      "Add the lacón/ham hock, panceta, whole garlic head, bay leaves, and saffron. Bring to a gentle boil over medium heat.",
+      "Skim off any foam that rises to the surface during the first 10–15 minutes.",
+      "Reduce heat to a low simmer. Add the chorizo and morcilla whole — do not pierce them.",
+      "Stir in the smoked paprika. Add cold water in small splashes (called 'susto' or 'shock') two or three times during cooking — this helps keep the bean skins intact.",
+      "Simmer uncovered for 2 to 2.5 hours, until the beans are completely tender and the broth has thickened. Gently shake the pot occasionally instead of stirring to avoid breaking the beans.",
+      "Remove the sausages, lacón, and garlic. Slice the chorizo and morcilla into thick rounds. Pull the lacón meat off the bone and shred or slice it.",
+      "Return the sliced meats to the pot. Season with salt — go easy, the cured meats are already salty.",
+      "Let rest for 10 minutes off the heat before serving. Fabada is even better the next day."
+    ],
+    "notes": "Use genuine Asturian fabes if you can find them — they're creamier and hold their shape better than regular white beans. If unavailable, large butter beans or cannellini beans work as a substitute. The 'susto' trick (splashing cold water in) is traditional and really does help. Don't rush this one — low and slow is the whole point."
+  },
+  {
+    "id": 8,
+    "slug": "cullen-skink",
+    "title": "Cullen Skink",
+    "cuisine": "Scottish",
+    "tags": [
+      "soup",
+      "seafood",
+      "smoked haddock",
+      "comfort food",
+      "winter",
+      "starter"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "35 min",
+    "servings": 4,
+    "photo": "photos/cullen-skink.webp",
+    "ingredients": [
+      "500g undyed smoked haddock fillets",
+      "500ml whole milk",
+      "500ml fish or chicken stock",
+      "1 large onion, finely diced",
+      "3 medium Maris Piper or Yukon Gold potatoes, peeled and diced",
+      "2 tbsp unsalted butter",
+      "150ml heavy cream",
+      "2 bay leaves",
+      "Salt and white pepper to taste",
+      "Fresh chives or parsley, chopped, to serve",
+      "Crusty bread, to serve"
+    ],
+    "steps": [
+      "Put the smoked haddock in a wide pan, skin-side down. Pour over the milk and add the bay leaves. Bring to a gentle simmer and poach for 8–10 minutes until the fish just flakes. Remove fish, strain and reserve the poaching milk — that's your flavor base.",
+      "Flake the haddock into large chunks, discarding the skin and any bones. Set aside.",
+      "In a large saucepan, melt butter over medium heat. Add onion and cook gently for 8–10 minutes until soft and translucent — don't rush this.",
+      "Add the diced potatoes, reserved poaching milk, and stock. Bring to a simmer and cook 15 minutes until potatoes are completely tender.",
+      "Use a potato masher to roughly crush about a third of the potatoes directly in the pot — this thickens the soup without making it gluey.",
+      "Stir in the cream and gently fold in the flaked haddock. Simmer 2–3 minutes to warm through. Season with white pepper and salt carefully — the haddock is already salty.",
+      "Ladle into bowls, scatter with fresh chives, and serve with crusty bread."
+    ],
+    "notes": "Undyed smoked haddock is worth tracking down — the bright yellow dyed stuff is fine but the flavor of natural smoked fish is in another league. Don't over-blend or mash; the chunky texture is part of what makes it a proper skink. This reheats beautifully the next day — the flavor deepens overnight."
+  },
+  {
+    "id": 7,
+    "slug": "garlic-beef-tenderloin",
+    "title": "Garlic Beef Tenderloin",
+    "cuisine": "American",
+    "tags": [
+      "beef",
+      "roast",
+      "main",
+      "dinner party",
+      "special occasion",
+      "garlic"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "30 min + rest",
+    "servings": 6,
+    "photo": "photos/garlic-beef-tenderloin.webp",
+    "ingredients": [
+      "1 whole beef tenderloin (1.5–2kg), trimmed and tied",
+      "8 garlic cloves, minced",
+      "3 tbsp olive oil",
+      "2 tbsp unsalted butter, softened",
+      "2 tsp kosher salt",
+      "1 tsp black pepper",
+      "2 tsp fresh rosemary, finely chopped",
+      "2 tsp fresh thyme leaves",
+      "1 tbsp Dijon mustard"
+    ],
+    "steps": [
+      "Pull the tenderloin out of the fridge 45 minutes before cooking — bringing it to room temp ensures even cooking throughout.",
+      "Mix together garlic, olive oil, softened butter, Dijon, rosemary, thyme, salt, and pepper into a paste.",
+      "Pat the tenderloin completely dry with paper towels, then rub the garlic paste all over, covering every surface.",
+      "Preheat oven to 425°F (220°C). Heat an oven-safe skillet over high heat until smoking. Sear the tenderloin 2–3 minutes per side until a deep brown crust forms — don't skip this, it's all the flavor.",
+      "Transfer skillet to the oven. Roast 20–25 minutes for medium-rare (internal temp 130°F / 54°C). Use a meat thermometer — this cut is too good to guess on.",
+      "Transfer to a cutting board and tent loosely with foil. Rest 10–15 minutes before slicing. This is non-negotiable.",
+      "Slice into medallions and serve with the pan juices spooned over the top."
+    ],
+    "notes": "Tenderloin is lean and cooks fast — pull it at 125°F if you like it closer to rare, it'll carry-over cook to 130°F while resting. Don't go past 140°F or you've wasted a beautiful piece of meat. Ask your butcher to trim and tie it for you if they haven't already."
+  },
+  {
+    "id": 6,
+    "slug": "beef-bulgogi",
+    "title": "Beef Bulgogi",
+    "cuisine": "Korean",
+    "tags": [
+      "beef",
+      "grilled",
+      "main",
+      "marinade",
+      "weeknight"
+    ],
+    "prepTime": "15 min + marinate",
+    "cookTime": "10 min",
+    "servings": 4,
+    "photo": "photos/beef-bulgogi.webp",
+    "ingredients": [
+      "700g ribeye or sirloin, thinly sliced",
+      "4 tbsp soy sauce",
+      "2 tbsp sesame oil",
+      "2 tbsp brown sugar",
+      "1 Asian pear (or ½ regular pear), grated",
+      "5 garlic cloves, minced",
+      "1 tsp fresh ginger, grated",
+      "3 green onions, sliced",
+      "1 tbsp toasted sesame seeds",
+      "½ tsp black pepper",
+      "1 tbsp neutral oil (for cooking)"
+    ],
+    "steps": [
+      "Mix soy sauce, sesame oil, brown sugar, grated pear, garlic, ginger, and black pepper in a bowl until the sugar dissolves. The pear is key — it tenderizes the meat naturally.",
+      "Add the sliced beef and half the green onions to the marinade. Toss well to coat every piece. Marinate at least 30 minutes in the fridge, or up to overnight.",
+      "Heat a cast iron skillet or grill pan over high heat until very hot. Add a thin layer of neutral oil.",
+      "Cook the beef in a single layer — don't crowd the pan or it'll steam. Work in batches. 1–2 minutes per side until caramelized and slightly charred at the edges.",
+      "Plate and top with remaining green onions and sesame seeds. Serve over steamed rice with kimchi on the side."
+    ],
+    "notes": "Thin slicing is everything here — pop the beef in the freezer for 20 minutes before cutting and it becomes much easier. The grated pear isn't optional; it's what gives bulgogi that tender, slightly sweet bite. If you can't find Asian pear, kiwi works in a pinch."
+  },
+  {
+    "id": 5,
+    "slug": "chocolate-peanut-butter-pie",
+    "title": "Chocolate Peanut Butter Pie",
+    "cuisine": "American",
+    "tags": [
+      "dessert",
+      "no-bake",
+      "chocolate",
+      "peanut butter",
+      "pie"
+    ],
+    "prepTime": "30 min",
+    "cookTime": "0 min (chill 4+ hrs)",
+    "servings": 8,
+    "photo": "photos/chocolate-peanut-butter-pie.webp",
+    "ingredients": [
+      "24 Oreo cookies, crushed",
+      "5 tbsp unsalted butter, melted",
+      "8 oz cream cheese, softened",
+      "1 cup creamy peanut butter",
+      "1 cup powdered sugar",
+      "1½ cups heavy cream, divided",
+      "1 tsp vanilla extract",
+      "1 cup semi-sweet chocolate chips"
+    ],
+    "steps": [
+      "Mix crushed Oreos with melted butter until it looks like wet sand. Press firmly into the bottom and up the sides of a 9-inch pie dish. Freeze for 15 minutes.",
+      "Beat 1 cup of the heavy cream with a hand or stand mixer until stiff peaks form. Set aside in the fridge.",
+      "Beat cream cheese until smooth. Mix in peanut butter, powdered sugar, and vanilla until fully combined. Gently fold in the whipped cream until just blended — don't overmix or it'll deflate.",
+      "Spoon the peanut butter filling into the chilled crust and spread evenly. Freeze for 30 minutes.",
+      "Heat the remaining ½ cup heavy cream in a small saucepan until just simmering. Pour over chocolate chips and let sit 2 minutes, then stir until silky smooth.",
+      "Pour ganache over the peanut butter layer and spread evenly. Refrigerate at least 4 hours or overnight before slicing."
+    ],
+    "notes": "For a cleaner slice, run your knife under hot water before cutting. Swap Oreos for graham crackers if you want a less sweet crust. Reese's cups chopped on top = 10/10 garnish move."
+  },
+  {
+    "id": 4,
+    "slug": "grilled-iberian-pork-chops",
+    "title": "Grilled Iberian Pork Chops",
+    "cuisine": "Spanish",
+    "tags": [
+      "grilled",
+      "pork",
+      "main",
+      "bone-in",
+      "marinade"
+    ],
+    "prepTime": "10 min + marinate",
+    "cookTime": "10 min",
+    "servings": 4,
+    "photo": "photos/iberian-pork-chops.webp",
+    "ingredients": [
+      "4 bone-in Iberian pork chops (1–1.5 inch thick)",
+      "4 tbsp olive oil",
+      "4 garlic cloves, smashed",
+      "2 tsp smoked paprika (pimentón)",
+      "3 fresh rosemary sprigs",
+      "1 tsp kosher salt",
+      "½ tsp black pepper",
+      "½ lemon, juiced"
+    ],
+    "steps": [
+      "Mix together olive oil, smashed garlic, smoked paprika, rosemary, salt, pepper, and lemon juice in a bowl.",
+      "Coat the pork chops thoroughly in the marinade. Refrigerate overnight for best results — 2–4 hours minimum.",
+      "Get your grill ripping hot, around 450–500°F. Clean and oil the grates well.",
+      "Grill chops 4–5 minutes per side for a nice sear. Target 145°F internal temp. Don't press them down — let the fat do its thing.",
+      "Pull off the grill and rest on a board loosely tented with foil for 5 minutes before serving. Non-negotiable."
+    ],
+    "notes": "Iberian pork has enough marbling that it stays juicy even if you nudge past 145°F, but don't push past 155°F or you'll lose that magic."
+  },
+  {
+    "id": 3,
+    "slug": "patatas-bravas",
+    "title": "Patatas Bravas",
+    "cuisine": "Spanish",
+    "tags": [
+      "tapas",
+      "vegetarian",
+      "crispy",
+      "spicy",
+      "side dish"
+    ],
+    "prepTime": "10 min",
+    "cookTime": "40 min",
+    "servings": 4,
+    "photo": "photos/patatas-bravas.webp",
+    "ingredients": [
+      "900g Yukon Gold or russet potatoes, cubed into 1-inch chunks",
+      "4 tbsp olive oil",
+      "1 tsp kosher salt",
+      "120ml mayonnaise",
+      "2 tsp smoked paprika (pimentón)",
+      "½ tsp cayenne pepper",
+      "1 garlic clove, minced",
+      "1 tbsp sherry vinegar or red wine vinegar",
+      "2 tbsp ketchup"
+    ],
+    "steps": [
+      "Make the bravas sauce: Whisk together mayonnaise, smoked paprika, cayenne, minced garlic, vinegar, and ketchup until smooth. Taste and adjust heat to your liking. Refrigerate until ready.",
+      "Toss potato chunks in olive oil and salt. Spread on a baking tray in a single layer — no crowding or they'll steam instead of crisp.",
+      "Roast at 425°F (220°C) for 35–40 minutes, flipping halfway through, until golden and crispy on the outside.",
+      "Pile potatoes on a serving plate, drizzle the bravas sauce generously on top, and serve immediately while hot."
+    ],
+    "notes": "The bravas sauce is the star. Taste and adjust — more cayenne for heat, more vinegar for tang. You can make the sauce a day ahead and refrigerate it."
+  },
+  {
+    "id": 2,
+    "slug": "grilled-broccolini-with-lemon-chili",
+    "title": "Grilled Broccolini with Lemon & Chili",
+    "cuisine": "American",
+    "tags": [
+      "vegetable",
+      "grilled",
+      "spicy",
+      "quick",
+      "side dish"
+    ],
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "servings": 4,
+    "photo": "photos/grilled-broccolini.webp",
+    "ingredients": [
+      "450g broccolini, ends trimmed",
+      "3 tbsp olive oil",
+      "3 garlic cloves, thinly sliced",
+      "½ tsp chili flakes",
+      "1 lemon, zested and juiced",
+      "½ tsp kosher salt",
+      "¼ tsp black pepper"
+    ],
+    "steps": [
+      "Toss broccolini with olive oil, salt, and pepper. Make sure every stalk is coated — this helps it char instead of steam.",
+      "Lay flat on a hot grill. Grill 3–4 minutes per side until you get good char marks and the stalks are just tender.",
+      "Pull off the grill and immediately top with sliced garlic, chili flakes, and the lemon zest and juice. The residual heat will soften the garlic and bloom the chili.",
+      "Serve right away."
+    ],
+    "notes": "Don't overcook it — you want a little bite left in the stalks. The char is flavor, don't be scared of it. You can swap chili flakes for a drizzle of chili oil if you want a smoother heat."
+  }
+]
