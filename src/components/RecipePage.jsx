@@ -62,7 +62,10 @@ export default function RecipePage({ recipe: r, servings, setServings, checked, 
 
       <main className="cb-wrap cb-main cb-recipe-page">
         <section className="cb-hero">
-          <Photo recipe={r} className="cb-hero__photo" eager />
+          <figure className="cb-hero__figure">
+            <Photo recipe={r} className="cb-hero__photo" eager />
+            {r.photo && r.photoCredit && <figcaption className="cb-caption">Photo: {r.photoCredit}</figcaption>}
+          </figure>
           <div className="cb-hero__body">
             <div className="cb-recipe__kicker">
               <span className="cb-label">{r.cuisine}</span>

@@ -38,7 +38,8 @@
     ],
     "notes": "A golden, flaky pastry over melty brie and sweet fig jam: big payoff for very little work. Make ahead: wrap up to a day early and refrigerate; brush with egg wash right before baking. Swaps: apricot jam or hot pepper jelly instead of fig. Fancy finish: cut pastry scraps into leaves and lay them on top before the egg wash. Don't skip the rest: cut too soon and you get a brie lava flow.",
     "addedAt": "2026-11-15T03:14:00.000Z",
-    "updatedAt": "2026-11-15T03:14:00.000Z"
+    "updatedAt": "2026-11-15T03:14:00.000Z",
+    "photoCredit": "Blue Jean Chef"
   },
   {
     "id": 50,
@@ -425,39 +426,6 @@
     "notes": "The send-off drink. Pre-scoop gelato balls onto a sheet pan and freeze them so service is fast. Keep decaf cold brew on hand for anyone who wants a nightcap without the caffeine."
   },
   {
-    "id": 39,
-    "slug": "frozen-soju-paloma-crowd-batch",
-    "title": "Frozen Soju Paloma (Crowd Batch)",
-    "cuisine": "Drinks",
-    "tags": [
-      "cocktail",
-      "soju",
-      "grapefruit",
-      "frozen",
-      "batch"
-    ],
-    "prepTime": "10 min",
-    "cookTime": "Freeze 4 hrs",
-    "servings": 20,
-    "photo": "photos/frozen-soju-paloma.webp",
-    "ingredients": [
-      "2½ cups soju",
-      "6 cups fresh grapefruit juice",
-      "1 cup lime juice",
-      "1 cup simple syrup",
-      "1 tsp kosher salt",
-      "Salt or tajín, for the rims",
-      "Grapefruit wedges, to garnish"
-    ],
-    "steps": [
-      "Stir the soju, grapefruit juice, lime, simple syrup, and salt together and chill thoroughly.",
-      "Pour into a sheet pan and freeze flat, scraping with a fork every hour or so — about 4 hrs to a proper granita. (Or run it through a slushy machine.)",
-      "Rim chilled glasses with salt or tajín.",
-      "Scrape and scoop the slush into the glasses and garnish with a grapefruit wedge."
-    ],
-    "notes": "The sheet-pan freeze means no blender bottleneck when 20 people want a drink at once. Keep the mix around 8–10% ABV — too much alcohol and it won't slush up."
-  },
-  {
     "id": 38,
     "slug": "tinto-de-verano",
     "title": "Tinto de Verano",
@@ -723,7 +691,8 @@
       "wings",
       "hot honey",
       "oven",
-      "party"
+      "party",
+      "appetizer"
     ],
     "prepTime": "15 min",
     "cookTime": "45 min",
@@ -758,7 +727,8 @@
       "wings",
       "habanero",
       "glaze",
-      "party"
+      "party",
+      "appetizer"
     ],
     "prepTime": "15 min",
     "cookTime": "55 min",
@@ -1554,7 +1524,8 @@
       "vegetarian",
       "crispy",
       "spicy",
-      "side dish"
+      "side dish",
+      "appetizer"
     ],
     "prepTime": "10 min",
     "cookTime": "40 min",

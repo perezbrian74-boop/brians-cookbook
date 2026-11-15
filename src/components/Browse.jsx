@@ -4,6 +4,9 @@ import { cuisinesOf, totalMinutes, fmtMinutes, loadPref, savePref, isNew } from 
 import { Photo, FavButton } from "./shared.jsx";
 import RadioPills from "./RadioPills.jsx";
 
+/** Course filter: recipes tagged "appetizer". */
+const isAppetizer = (r) => (r.tags || []).includes("appetizer");
+
 const SORTS = [
   { value: "recent", label: "Newest" },
   { value: "name", label: "A–Z" },
@@ -17,6 +20,7 @@ export default function Browse({ recipes: RECIPES, favs, onToggleFav, isOwner })
   // A cuisine filter can outlive its last recipe (deleted elsewhere): fall back to All.
   React.useEffect(() => { if (cuisine !== "All" && !CUISINES.includes(cuisine)) setCuisine("All"); }, [cuisine, CUISINES.join()]); // eslint-disable-line react-hooks/exhaustive-deps
   const [favOnly, setFavOnly] = React.useState(false);
+  const [appsOnly, setAppsOnly] = React.useState(false);
   const [sort, setSort] = React.useState(() => {
     const s = loadPref("sort", "recent");
     return SORTS.some((o) => o.value === s) ? s : "recent";
@@ -27,6 +31,7 @@ export default function Browse({ recipes: RECIPES, favs, onToggleFav, isOwner })
   const list = RECIPES.filter((r) => {
     if (cuisine !== "All" && r.cuisine !== cuisine) return false;
     if (favOnly && !favs.has(r.id)) return false;
+    if (appsOnly && !isAppetizer(r)) return false;
     if (!q) return true;
     return (
       r.title.toLowerCase().includes(q) ||
@@ -50,6 +55,7 @@ export default function Browse({ recipes: RECIPES, favs, onToggleFav, isOwner })
     setQuery("");
     setCuisine("All");
     setFavOnly(false);
+    setAppsOnly(false);
   }
 
   return (
@@ -96,6 +102,7 @@ export default function Browse({ recipes: RECIPES, favs, onToggleFav, isOwner })
             <RadioPills label="Cuisine" options={cuisineOptions} value={cuisine} onChange={setCuisine} className="cb-pills--scroll" />
           </div>
           <div className="cb-controls__row cb-controls__row--split">
+            <div className="cb-pills">
             <button
               type="button"
               className={"cb-pill" + (favOnly ? " is-on" : "")}
@@ -106,6 +113,16 @@ export default function Browse({ recipes: RECIPES, favs, onToggleFav, isOwner })
               Favourites
               <span className="cb-pill__count">{favs.size}</span>
             </button>
+            <button
+              type="button"
+              className={"cb-pill" + (appsOnly ? " is-on" : "")}
+              aria-pressed={appsOnly}
+              onClick={() => setAppsOnly((v) => !v)}
+            >
+              Appetizers
+              <span className="cb-pill__count">{RECIPES.filter(isAppetizer).length}</span>
+            </button>
+            </div>
             <div className="cb-sort">
               <span className="cb-label">Sort</span>
               <RadioPills label="Sort recipes" options={SORTS} value={sort} onChange={setSort} className="cb-seg" />
@@ -117,6 +134,7 @@ export default function Browse({ recipes: RECIPES, favs, onToggleFav, isOwner })
           {filtered ? `${list.length} of ${RECIPES.length} recipes` : `${RECIPES.length} recipes`}
           {cuisine !== "All" ? ` · ${cuisine}` : ""}
           {favOnly ? " · favourites" : ""}
+          {appsOnly ? " · appetizers" : ""}
         </p>
 
         {list.length === 0 ? (

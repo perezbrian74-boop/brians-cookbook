@@ -19,6 +19,7 @@ function toValues(r) {
     ingredients: (r?.ingredients ?? []).join("\n"),
     steps: (r?.steps ?? []).join("\n"),
     notes: r?.notes ?? "",
+    photoCredit: r?.photoCredit ?? "",
   };
 }
 
@@ -225,6 +226,7 @@ export default function RecipeForm({ recipe, recipes, tools, route, draft, onSav
       ingredients: lines(v.ingredients),
       steps: lines(v.steps),
       notes: v.notes.trim() || undefined,
+      photoCredit: (photo && (v.photoCredit ?? "").trim()) || undefined,
       addedAt: editing ? recipe.addedAt : new Date().toISOString(),
       updatedAt: new Date().toISOString(),
     };
@@ -295,6 +297,12 @@ export default function RecipeForm({ recipe, recipes, tools, route, draft, onSav
                 <p className="cb-caption">Shrunk on your device before upload.</p>
               </div>
             </div>
+            {shownPhoto && (
+              <Field id="photoCredit" label="Photo credit" hint="Optional. Who took or published the photo">
+                <input id="photoCredit" className="cb-input" value={v.photoCredit ?? ""} onChange={set("photoCredit")}
+                  placeholder="e.g. Blue Jean Chef" autoComplete="off" {...aria("photoCredit")} />
+              </Field>
+            )}
 
             <Field ai={aiFields.has("title")} id="title" label="Name" error={errors.title}>
               <input id="title" className="cb-input" value={v.title} onChange={set("title")} placeholder="e.g. Chicken tinga tacos" autoComplete="off" {...aria("title")} />
@@ -338,7 +346,7 @@ export default function RecipeForm({ recipe, recipes, tools, route, draft, onSav
             </Field>
             <Field ai={aiFields.has("notes")} id="notes" label="Cook's notes" hint="Optional">
               <textarea id="notes" className="cb-textarea" rows={3} value={v.notes} onChange={set("notes")}
-                placeholder="Tips, swaps, what to serve it with" {...aria("notes")} />
+                placeholder="e.g. Tips, swaps, what to serve it with" {...aria("notes")} />
             </Field>
           </section>
 
