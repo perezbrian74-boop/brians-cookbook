@@ -1,5 +1,43 @@
 [
   {
+    "id": 50,
+    "slug": "goat-cheese-stuffed-dates-wrapped-in-bacon",
+    "title": "Goat Cheese Stuffed Dates Wrapped in Bacon",
+    "cuisine": "Spanish",
+    "tags": [
+      "appetizer",
+      "party",
+      "bacon",
+      "dates",
+      "goat cheese"
+    ],
+    "prepTime": "15 min",
+    "cookTime": "20 min",
+    "servings": 8,
+    "photo": "photos/bacon-wrapped-dates.webp",
+    "photoPosition": "50% 62%",
+    "ingredients": [
+      "24 Medjool dates, pitted",
+      "4 oz goat cheese, softened",
+      "12 slices bacon (regular cut, not thick), halved crosswise",
+      "1 tbsp honey",
+      "½ tsp freshly cracked black pepper",
+      "1 tsp fresh thyme leaves (optional)",
+      "24 toothpicks, soaked in water"
+    ],
+    "steps": [
+      "Heat the oven. Preheat to 400°F (200°C). Line a rimmed baking sheet with foil and set a wire rack on top if you have one, so fat drips away and the bacon crisps all around.",
+      "Stuff the dates. Slice each date open lengthwise on one side, keeping it in one piece, and remove any pits. Mix the goat cheese with the pepper and thyme. Spoon or pipe about 1 tsp into each date and pinch closed.",
+      "Wrap in bacon. Wrap each date in a half slice of bacon, seam side down, and secure with a toothpick. Don't stretch the bacon too tight; it shrinks as it cooks.",
+      "Bake. Bake about 10 minutes, then flip.",
+      "Finish baking. Bake another 8–12 minutes until the bacon is browned and crisp.",
+      "Drizzle and rest. Drizzle with honey and rest 2–3 minutes so the cheese sets."
+    ],
+    "notes": "Sweet, salty, creamy, crispy: makes 24, and they disappear in minutes. Make ahead: stuff and wrap up to a day early and refrigerate; add 2–3 minutes to the bake. Swaps: blue cheese or Manchego instead of goat cheese, or prosciutto instead of bacon (bake only 8–10 min). Extras: tuck a Marcona almond inside each date for crunch, or use balsamic glaze in place of honey.",
+    "addedAt": "2026-11-15T03:08:00.000Z",
+    "updatedAt": "2026-11-15T03:08:00.000Z"
+  },
+  {
     "id": 49,
     "slug": "beef-stout-stew",
     "title": "Beef & Stout Stew",
