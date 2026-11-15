@@ -1,5 +1,46 @@
 [
   {
+    "id": 51,
+    "slug": "baked-brie-with-fig-in-puff-pastry",
+    "title": "Baked Brie with Fig in Puff Pastry",
+    "cuisine": "French",
+    "tags": [
+      "appetizer",
+      "party",
+      "brie",
+      "fig",
+      "puff pastry"
+    ],
+    "prepTime": "30 min (incl. 15 min chill)",
+    "cookTime": "25–30 min",
+    "servings": 8,
+    "photo": "photos/baked-brie-fig.webp",
+    "photoPosition": "50% 60%",
+    "ingredients": [
+      "1 sheet puff pastry, thawed",
+      "1 wheel brie (8 oz / 225 g), cold",
+      "⅓ cup fig jam or preserves",
+      "4 dried figs, chopped (optional)",
+      "3 tbsp walnuts or pecans, toasted and chopped",
+      "1 tsp fresh thyme or rosemary leaves",
+      "1 large egg, beaten with 1 tbsp water",
+      "1 tbsp honey, for drizzling",
+      "¼ tsp flaky sea salt"
+    ],
+    "steps": [
+      "Heat the oven. Preheat to 400°F (200°C) and line a baking sheet with parchment.",
+      "Roll the pastry. On a lightly floured surface, roll the pastry out slightly, to about a 12-inch square. Keep it cold; warm pastry gets sticky and won't puff.",
+      "Build it. Set the brie in the center (leave the rind on). Spread fig jam over the top, then sprinkle on the dried figs, nuts and herbs.",
+      "Wrap and seal. Fold the pastry corners up over the brie, overlapping, and press to seal. Trim any extra-thick folds. Flip it seam side down onto the sheet, brush all over with egg wash, and cut 2–3 small slits on top.",
+      "Chill. Refrigerate 15 minutes so the pastry puffs better and the cheese doesn't leak.",
+      "Bake. Bake 25–30 minutes until deep golden brown. Tent with foil if it browns too fast.",
+      "Rest and serve. Rest 10 minutes before cutting. Drizzle with honey, sprinkle with flaky salt, and serve with crackers, apple or pear slices, or baguette."
+    ],
+    "notes": "A golden, flaky pastry over melty brie and sweet fig jam: big payoff for very little work. Make ahead: wrap up to a day early and refrigerate; brush with egg wash right before baking. Swaps: apricot jam or hot pepper jelly instead of fig. Fancy finish: cut pastry scraps into leaves and lay them on top before the egg wash. Don't skip the rest: cut too soon and you get a brie lava flow.",
+    "addedAt": "2026-11-15T03:14:00.000Z",
+    "updatedAt": "2026-11-15T03:14:00.000Z"
+  },
+  {
     "id": 50,
     "slug": "goat-cheese-stuffed-dates-wrapped-in-bacon",
     "title": "Goat Cheese Stuffed Dates Wrapped in Bacon",
