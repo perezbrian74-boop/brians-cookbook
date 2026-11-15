@@ -43,6 +43,17 @@ The live page may hold recipes Brian added on the site that `recipes.json` doesn
 A new photo added in code goes in `public/photos/`, then upload it as an artifact asset and add
 its id to `scripts/photo-assets.json` (the build stops if one is missing).
 
+## Hosting and sync
+
+- **brianscookbook.com** (redirects to www) — Vercel project `brians-cookbook` in team
+  "perezbrian74-gmailcom's projects", linked to GitHub `perezbrian74-boop/brians-cookbook`.
+  Every push to `main` deploys (Vite preset: `npm run build` → `dist`).
+- **Claude page** (`https://claude.ai/artifact/NmgGrpVGvvh41Fo3PvBWBy`) — where Brian adds recipes.
+- **Hourly scheduled task "Cookbook recipe sync"** (:38 past the hour) runs `scripts/pull-live.mjs`
+  against the Claude page and pushes `src/data/recipes.json`, `scripts/photo-assets.json` and new
+  `public/photos/*` when something changed. It refuses to push if recipes drop by more than 3 at once.
+- `git push` from a shallow clone: `git -c push.negotiate=true push origin main`.
+
 ## Adding a recipe
 
 On the live site: **Add recipe** in the top bar (owner only). In code: add an object to
